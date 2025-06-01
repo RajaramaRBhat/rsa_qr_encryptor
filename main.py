@@ -54,5 +54,5 @@ def main():
     else:
         print("Invalid option. Exiting.")
 
-if name == "main":
+if __name__ == "__main__":
     main()
